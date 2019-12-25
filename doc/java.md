@@ -34,5 +34,7 @@ https://juejin.im/post/5b56f7b75188256256697281
 #深入理解Java反射（一）
 https://juejin.im/post/5b5d4fa95188251af53df030
 
+#面试官问：线程池除了常见的4种拒绝策略，你还知道哪些？
+https://mp.weixin.qq.com/s?__biz=Mzg2OTA0Njk0OA==&mid=2247485679&idx=1&sn=57dbca8c9ad49e1f3968ecff04a4f735&chksm=cea24724f9d5ce3212292fac291234a760c99c0960b5430d714269efe33554730b5f71208582&token=1141994790&lang=zh_CN#rd
 
 
