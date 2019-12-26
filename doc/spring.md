@@ -1,6 +1,10 @@
 #15个经典的Spring面试常见问题
 https://juejin.im/post/5cf7ca6d6fb9a07ef71062d7
 
+#Spring Boot自动配置的"魔法"是如何实现的？
+https://sylvanassun.github.io/2018/01/08/2018-01-08-spring_boot_auto_configure/
+
+
 #Spring IOC 容器源码分析
 https://javadoop.com/post/spring-ioc
 
