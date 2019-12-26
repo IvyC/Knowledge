@@ -31,6 +31,9 @@ https://blog.csdn.net/dm_vincent/article/details/57526325
 #Spring 框架的设计理念与设计模式分析
 https://www.ibm.com/developerworks/cn/java/j-lo-spring-principle/index.html
 
+#新手也能看懂的 SpringBoot 异步编程指南
+https://snailclimb.gitee.io/springboot-guide/#/./docs/advanced/springboot-async
+
 #Spring事务传播行为
 https://juejin.im/post/5ae9639af265da0b926564e7
 
